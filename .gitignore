@@ -1,7 +1,0 @@
-# Ignore node_modules
-node_modules/
-
-# Optionally, you can ignore other files/folders like logs, environment files, etc.
-.env
-.DS_Store
-*.log
